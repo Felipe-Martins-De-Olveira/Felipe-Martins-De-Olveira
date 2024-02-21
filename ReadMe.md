@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de Front End<br>👯 Estou a procura de um estagio<br>
+🔭 Sou estudante de desenvolvimento Front End<br>👯 Crio alguns codigos com meu irmão<br>
 
 
 # 💻 Tech Stack:
