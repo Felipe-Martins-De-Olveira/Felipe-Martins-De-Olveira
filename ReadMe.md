@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de desenvolvimento Front End<br>👯 Crio alguns codigos com meu irmão<br>
+🔭 Sou estudante de desenvolvimento Front End<br>👯 Crio alguns codigos com meu irmão<br>🧑‍💻 Pretendo ser um desenvolvedor fullstack<br>
 
 
 # 💻 Tech Stack:
