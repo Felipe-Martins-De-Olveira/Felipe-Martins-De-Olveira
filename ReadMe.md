@@ -18,5 +18,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Felipe-Martins-De-Olveira&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![476d9f1fc9bbe0955cb36c507dac9495](https://github.com/Felipe-Martins-De-Olveira/Felipe-Martins-De-Olveira/assets/160751172/bbe4c3d2-a1e2-482f-a8e5-de9af306ce16)
+
+![gifs-de-hacker-1](https://github.com/Felipe-Martins-De-Olveira/Felipe-Martins-De-Olveira/assets/160751172/18285e41-de9f-4cd2-9069-dcfe0a34d7b5)
 
