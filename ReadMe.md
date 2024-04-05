@@ -3,6 +3,8 @@
 🔭 Sou estudante de desenvolvimento Front End<br>👯 Crio alguns codigos com meu irmão<br>🧑‍💻 Pretendo ser um desenvolvedor full stack<br> 🧑‍🎓Escolaridade: Cursando Ensino superior <br>
 
 
+
+
 # 💻 Pilha de tecnologia:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
