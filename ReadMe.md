@@ -18,4 +18,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Felipe-Martins-De-Olveira&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![download](https://github.com/Felipe-Martins-De-Olveira/Felipe-Martins-De-Olveira/assets/160751172/22357f62-2a6a-4592-af1f-75a098884f6f)
+![476d9f1fc9bbe0955cb36c507dac9495](https://github.com/Felipe-Martins-De-Olveira/Felipe-Martins-De-Olveira/assets/160751172/bbe4c3d2-a1e2-482f-a8e5-de9af306ce16)
+
