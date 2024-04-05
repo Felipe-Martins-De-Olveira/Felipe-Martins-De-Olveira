@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Nome: Felipe Martins de Oliveira<br> Idade: 19 anos<br> Profissão: Futuro Garoto de Programa<br>
+🙎‍♂️Nome: Felipe Martins de Oliveira<br>  🧓Idade: 19 anos<br> 👨‍💻Profissão: Futuro Garoto de Programa<br>
 🔭 Sou estudante de desenvolvimento Front End<br>👯 Crio alguns codigos com meu irmão<br>🧑‍💻 Pretendo ser um desenvolvedor fullstack<br>
 
 
