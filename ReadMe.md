@@ -19,7 +19,22 @@
 [![](https://visitcount.itsvg.in/api?id=Felipe-Martins-De-Olveira&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+name: Waka Readme
 
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 12am UTC
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
 ![gifs-de-hacker-1](https://github.com/Felipe-Martins-De-Olveira/Felipe-Martins-De-Olveira/assets/160751172/18285e41-de9f-4cd2-9069-dcfe0a34d7b5)
 
