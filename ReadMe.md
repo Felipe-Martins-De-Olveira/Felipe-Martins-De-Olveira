@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Felipe-Martins-De-Olveira&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Felipe-Martins-De-Olveira&theme=dark&hide_border=false)<br/>
 
-<figure><embed src="https://wakatime.com/share/@018eaf41-4fc0-4335-abcd-dcadcfcd4363/d869c251-09b5-40e3-ba55-20bb8c892aff.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018eaf41-4fc0-4335-abcd-dcadcfcd4363/7f358ded-5ddd-49b3-b384-5edfdb1a8a0b.png" /></a>
 
 
 
