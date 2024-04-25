@@ -3,10 +3,10 @@
 🔭 Sou estudante de desenvolvimento Front End<br>👯 Crio alguns codigos com meu irmão<br>🧑‍💻 Pretendo ser um desenvolvedor full stack<br> 🧑‍🎓Escolaridade: Cursando Ensino Superior <br>
 
 # 💫 Senai Cursos secundários:
-[SoftSkills.pdf](https://github.com/Felipe-Martins-De-Olveira/Felipe-Martins-De-Olveira/files/15111931/SoftSkills.pdf)
-[Despertando a Criatividade e a Inovação.pdf](https://github.com/Felipe-Martins-De-Olveira/Felipe-Martins-De-Olveira/files/15111935/Despertando.a.Criatividade.e.a.Inovacao.pdf)
-[Elevação Sustentável Domínio do ESG para um Futuro Responsável.pdf](https://github.com/Felipe-Martins-De-Olveira/Felipe-Martins-De-Olveira/files/15111939/Elevacao.Sustentavel.Dominio.do.ESG.para.um.Futuro.Responsavel.pdf)
-[Desafios Complexos e Liderança Impactante.pdf](https://github.com/Felipe-Martins-De-Olveira/Felipe-Martins-De-Olveira/files/15111943/Desafios.Complexos.e.Lideranca.Impactante.pdf)
+[SoftSkills.pdf](https://github.com/Felipe-Martins-De-Olveira/Felipe-Martins-De-Olveira/files/15111931/SoftSkills.pdf)<br>
+[Despertando a Criatividade e a Inovação.pdf](https://github.com/Felipe-Martins-De-Olveira/Felipe-Martins-De-Olveira/files/15111935/Despertando.a.Criatividade.e.a.Inovacao.pdf)<br>
+[Elevação Sustentável Domínio do ESG para um Futuro Responsável.pdf](https://github.com/Felipe-Martins-De-Olveira/Felipe-Martins-De-Olveira/files/15111939/Elevacao.Sustentavel.Dominio.do.ESG.para.um.Futuro.Responsavel.pdf)<br>
+[Desafios Complexos e Liderança Impactante.pdf](https://github.com/Felipe-Martins-De-Olveira/Felipe-Martins-De-Olveira/files/15111943/Desafios.Complexos.e.Lideranca.Impactante.pdf)<br>
 
 
 
