@@ -3,7 +3,7 @@
 🔭 Sou estudante de desenvolvimento Front End<br>👯 Crio alguns codigos com meu irmão<br>🧑‍💻 Pretendo ser um desenvolvedor full stack<br> 🧑‍🎓Escolaridade: Cursando Ensino Superior <br>
 
 # 💫 Senai Cursos secundários:
-[4274082 (3).pdf](https://github.com/Felipe-Martins-De-Olveira/Felipe-Martins-De-Olveira/files/15111901/4274082.3.pdf)
+[4274082 (3).pdf](file:///C:/Users/autologon/Downloads/4274082%20(3).pdf)
 
 
 
