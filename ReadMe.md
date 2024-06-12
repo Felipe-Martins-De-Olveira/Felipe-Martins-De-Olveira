@@ -2,7 +2,7 @@
 🙎‍♂️Nome: Felipe Martins de Oliveira<br>  🧓Idade: 19 anos<br> 👨‍💻Profissão: Futuro Garoto de Programa<br>
 🔭 Sou estudante de desenvolvimento Front End<br>👯 Crio alguns codigos com meu irmão<br>🧑‍💻 Pretendo ser um desenvolvedor full stack<br> 🧑‍🎓Escolaridade: Cursando Ensino Superior <br>
 
-# 👨‍💻 Senai Cursos secundários:
+# 👨‍💻 Cursos Senai:
 [SoftSkills.pdf](https://github.com/Felipe-Martins-De-Olveira/Felipe-Martins-De-Olveira/files/15111931/SoftSkills.pdf)<br>
 [Despertando a Criatividade e a Inovação.pdf](https://github.com/Felipe-Martins-De-Olveira/Felipe-Martins-De-Olveira/files/15111935/Despertando.a.Criatividade.e.a.Inovacao.pdf)<br>
 [Elevação Sustentável Domínio do ESG para um Futuro Responsável.pdf](https://github.com/Felipe-Martins-De-Olveira/Felipe-Martins-De-Olveira/files/15111939/Elevacao.Sustentavel.Dominio.do.ESG.para.um.Futuro.Responsavel.pdf)<br>
