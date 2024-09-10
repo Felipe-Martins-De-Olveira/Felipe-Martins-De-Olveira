@@ -8,7 +8,6 @@
 [Despertando a Criatividade e a Inovação.pdf](https://github.com/Felipe-Martins-De-Olveira/Felipe-Martins-De-Olveira/files/15111935/Despertando.a.Criatividade.e.a.Inovacao.pdf)<br>
 [Elevação Sustentável Domínio do ESG para um Futuro Responsável.pdf](https://github.com/Felipe-Martins-De-Olveira/Felipe-Martins-De-Olveira/files/15111939/Elevacao.Sustentavel.Dominio.do.ESG.para.um.Futuro.Responsavel.pdf)<br>
 [Desafios Complexos e Liderança Impactante.pdf](https://github.com/Felipe-Martins-De-Olveira/Felipe-Martins-De-Olveira/files/15111943/Desafios.Complexos.e.Lideranca.Impactante.pdf)<br>
-[Front End-Senai.pdf](https://github.com/user-attachments/files/16937692/Front.End-Senai.pdf)
 
 
 
