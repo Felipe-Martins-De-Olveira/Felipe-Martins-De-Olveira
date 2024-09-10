@@ -1,6 +1,6 @@
 # 💫 Sobre mim:
 🙎‍♂️Nome: Felipe Martins de Oliveira<br>  🧓Idade: 19 anos<br> 👨‍💻Profissão: Futuro Programador Full Stack<br>
-🔭 Sou estudante de desenvolvimento Front End<br>👯 Crio alguns codigos com meu irmão<br>🧑‍💻 Pretendo ser um desenvolvedor full stack<br> 🧑‍🎓Escolaridade: Cursando Ensino Superior <br>
+🔭 Sou estudante de desenvolvimento Front End<br> 👨‍💻👨‍💻 Crio alguns codigos com meu irmão<br>🧑‍💻 Pretendo ser um desenvolvedor full stack<br> 🧑‍🎓Escolaridade: Cursando Ensino Superior <br>
 
 # 👨‍💻 Cursos Senai/Senac:
 [desenvolvedor front-end.pdf](https://github.com/user-attachments/files/16324900/Imagem.24.pdf) <br>
