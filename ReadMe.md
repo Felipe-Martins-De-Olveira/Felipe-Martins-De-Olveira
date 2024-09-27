@@ -21,7 +21,7 @@
 # 📊 Estatísticas GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=Felipe-Martins-De-Olveira&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Felipe-Martins-De-Olveira&theme=dark&hide_border=false)<br/>
-<figure><embed src="https://wakatime.com/share/@018eaf41-4fc0-4335-abcd-dcadcfcd4363/2519c4e4-c3fa-4976-8767-ff6a55d9d75c.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018eaf41-4fc0-4335-abcd-dcadcfcd4363/3d5feb82-4b46-41a5-b132-cbc48d6c5b43.png" /></a>
 
 
 
