@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🙎‍♂️Nome: Felipe Martins de Oliveira<br>  🧓Idade: 19 anos<br> 👨‍💻Profissão: Futuro Programador Full Stack<br>
+🙎‍♂️Nome: Felipe Martins de Oliveira<br>  🧓Idade: 20 anos<br> 👨‍💻Profissão: Futuro Programador Full Stack<br>
 🔭 Sou estudante de desenvolvimento Front End<br> 👨‍💻👨‍💻 Crio alguns codigos com meu irmão<br>🧑‍💻 Pretendo ser um desenvolvedor full stack<br> 🧑‍🎓Escolaridade: Cursando Ensino Superior <br>
 
 # 👨‍💻 Cursos:
