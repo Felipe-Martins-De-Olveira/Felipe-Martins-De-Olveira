@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="200" viewBox="0 0 560 200" role="img" aria-labelledby="title description">
+  <title id="title">WakaTime — meu tempo de código</title>
+  <desc id="description">Aprendizado contínuo, uma sessão por vez.</desc>
+  <rect x="1" y="1" width="558" height="198" rx="14" fill="#111b28" stroke="#303c46"/>
+  <text x="34" y="50" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#b9cbd2">Meu tempo de código</text>
+  <text x="32" y="113" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="600" fill="#f2f7f9">WakaTime<tspan fill="#69ead0">.</tspan></text>
+  <text x="34" y="156" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#b9cbd2">Aprendizado contínuo,</text>
+  <text x="34" y="187" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#b9cbd2">uma sessão por vez.</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="300" viewBox="0 0 560 300" role="img" aria-labelledby="title description">
+  <title id="title">Felipe Martins</title>
+  <desc id="description">Desenvolvedor em evolução. Web, Python e aprendizado contínuo.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111b28"/><stop offset="1" stop-color="#071318"/></linearGradient></defs>
+  <rect width="560" height="300" rx="14" fill="url(#bg)"/>
+  <path d="M36 40h45" stroke="#69ead0" stroke-width="4"/>
+  <text x="36" y="84" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#b7d3dc">Desenvolvedor em evolução</text>
+  <text x="33" y="163" font-family="Segoe UI, Arial, sans-serif" font-size="55" font-weight="600" letter-spacing="-1" fill="#f2f7f9">Felipe Martins<tspan fill="#69ead0">.</tspan></text>
+  <text x="36" y="214" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#b7c8d1">Web · Python</text>
+  <text x="36" y="253" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#b7c8d1">Aprendizado contínuo</text>
+</svg>

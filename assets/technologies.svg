@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="124" viewBox="0 0 430 124" role="img" aria-labelledby="title">
+  <title id="title">HTML5, CSS3, JavaScript, Python, React, TypeScript, Electron, Rust e Tauri</title>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">
+    <rect width="87" height="34" rx="6" fill="#171f2b"/><circle cx="17" cy="17" r="4" fill="#ef805b"/><text x="29" y="22" fill="#e7edf4">HTML5</text>
+    <rect x="97" width="80" height="34" rx="6" fill="#171f2b"/><circle cx="114" cy="17" r="4" fill="#73b5f3"/><text x="126" y="22" fill="#e7edf4">CSS3</text>
+    <rect x="187" width="128" height="34" rx="6" fill="#171f2b"/><circle cx="204" cy="17" r="4" fill="#f1d56a"/><text x="216" y="22" fill="#e7edf4">JavaScript</text>
+    <rect x="325" width="100" height="34" rx="6" fill="#171f2b"/><circle cx="342" cy="17" r="4" fill="#8ac7f9"/><text x="354" y="22" fill="#e7edf4">Python</text>
+    <rect y="44" width="88" height="34" rx="6" fill="#171f2b"/><circle cx="17" cy="61" r="4" fill="#61dafb"/><text x="29" y="66" fill="#e7edf4">React</text>
+    <rect x="98" y="44" width="129" height="34" rx="6" fill="#171f2b"/><circle cx="115" cy="61" r="4" fill="#6db4ef"/><text x="127" y="66" fill="#e7edf4">TypeScript</text>
+    <rect x="237" y="44" width="114" height="34" rx="6" fill="#171f2b"/><circle cx="254" cy="61" r="4" fill="#a5ddea"/><text x="266" y="66" fill="#e7edf4">Electron</text>
+    <rect y="88" width="87" height="34" rx="6" fill="#171f2b"/><circle cx="17" cy="105" r="4" fill="#e4b394"/><text x="29" y="110" fill="#e7edf4">Rust</text>
+    <rect x="97" y="88" width="91" height="34" rx="6" fill="#171f2b"/><circle cx="114" cy="105" r="4" fill="#79dfd1"/><text x="126" y="110" fill="#e7edf4">Tauri</text>
+  </g>
+</svg>

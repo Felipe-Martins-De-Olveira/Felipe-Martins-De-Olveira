@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title description">
+  <title id="title">Felipe Martins</title>
+  <desc id="description">Desenvolvimento web, Python e projetos na prática. Banner azul escuro com detalhes em verde menta.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111b28"/><stop offset="1" stop-color="#071318"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#69ead0"/><stop offset="1" stop-color="#63a6f4"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a1c8d5" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1000" height="300" rx="14" fill="url(#background)"/>
+  <rect width="1000" height="300" rx="14" fill="url(#grid)"/>
+  <g fill="none" stroke="url(#accent)" stroke-width="1.4">
+    <rect x="695" y="-40" width="260" height="260" rx="40" transform="rotate(30 825 90)" opacity=".17"/>
+    <rect x="744" y="9" width="162" height="162" rx="29" transform="rotate(30 825 90)" opacity=".34"/>
+    <path d="M610 238h76l28-28h112l30-30h145M688 265h142l25-25h145" opacity=".25"/>
+    <circle cx="686" cy="238" r="4" fill="#69ead0" stroke="none"/><circle cx="826" cy="210" r="4" fill="#63a6f4" stroke="none"/>
+  </g>
+  <rect x="50" y="53" width="4" height="28" rx="2" fill="#69ead0"/>
+  <text x="70" y="73" font-family="Segoe UI, Arial, sans-serif" font-size="15" letter-spacing="3" fill="#b7d3dc">DESENVOLVEDOR EM EVOLUÇÃO</text>
+  <text x="48" y="156" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="600" letter-spacing="-2" fill="#f2f7f9">Felipe Martins<tspan fill="#69ead0">.</tspan></text>
+  <text x="51" y="199" font-family="Segoe UI, Arial, sans-serif" font-size="21" fill="#b7c8d1">Desenvolvimento web · Python · Aprendizado contínuo</text>
+  <text x="52" y="258" font-family="Consolas, monospace" font-size="14" fill="#7c97a8">// aprender. construir. evoluir.</text>
+  <text x="781" y="133" font-family="Consolas, monospace" font-size="59" fill="#69ead0" opacity=".75">&lt;/&gt;</text>
+</svg>
