@@ -57,28 +57,6 @@
   </picture>
 </p>
 
-## Meu tempo de código
-
-<p>
-  <a href="https://wakatime.com/@018eaf41-4fc0-4335-abcd-dcadcfcd4363">
-    <picture>
-      <source media="(max-width: 600px)" srcset="assets/wakatime-banner-mobile.svg" />
-      <img src="assets/wakatime-banner.svg" alt="WakaTime — meu tempo de código. Aprendizado contínuo, uma sessão por vez." width="100%" />
-    </picture>
-  </a>
-</p>
-
-Linguagens ao longo de todo o meu histórico registrado no WakaTime.
-
-<p align="center">
-  <a href="https://wakatime.com/@018eaf41-4fc0-4335-abcd-dcadcfcd4363">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@018eaf41-4fc0-4335-abcd-dcadcfcd4363/53eb4b10-67b3-4552-ad06-449e7aa9c752.png" />
-    <img src="https://wakatime.com/share/@018eaf41-4fc0-4335-abcd-dcadcfcd4363/e70bbb42-1c1a-4019-8a33-9d716a9a13f2.png" alt="Linguagens de Felipe Martins no WakaTime, ao longo de todo o histórico registrado" width="100%" />
-  </picture>
-  </a>
-</p>
-
 ## Aprendizado contínuo
 
 Gosto de estudar pelas documentações oficiais e por conteúdos na internet, colocando em prática o que aprendo nos meus projetos.
