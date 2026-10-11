@@ -68,8 +68,6 @@
   </a>
 </p>
 
-[Abrir meu WakaTime ↗](https://wakatime.com/@018eaf41-4fc0-4335-abcd-dcadcfcd4363)
-
 Linguagens ao longo de todo o meu histórico registrado no WakaTime.
 
 <p align="center">
